@@ -1,4 +1,4 @@
-# Fork of https://github.com/sourabhv/FlapPyBird
+# Flappy Game fully programmed in pygame 
 
 from itertools import cycle
 import random
